@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/3.7" minimumPatchLevel="0">
+    <id>com.lastchancemedia.BlitPilot</id>
+    <name>
+        <text xml:lang="en">BlitPilot</text>
+    </name>
+    <versionNumber>0.0.1</versionNumber>
+    <filename>BlitPilot</filename>
+    <description>
+        <text xml:lang="en">Placeholder description for BlitPilot.</text>
+    </description>
+    <initialWindow>
+        <content>BlitPilot.swf</content>
+        <title>BlitPilot</title>
+        <renderMode>direct</renderMode>
+        <fullscreen>true</fullscreen>
+        <visible>true</visible>
+    </initialWindow>
+</application>
